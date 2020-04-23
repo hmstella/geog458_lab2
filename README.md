@@ -27,8 +27,8 @@ I got a problem in accessing the Twitter Developer account due to the delays in 
 
 I attached the proof that I have applied to the Developer account using two Twitter accounts.
 
-<img src="img/Twitter_developer.JPG" align="center" width="350px">
+<img src="img/Twitter_developer.JPG">
 
-<img src="img/Twitter_application_email.JPG" align="left" width="225px">
+<img src="img/Twitter_application_email.JPG">
 
-<img src="img/Twitter_application_email2.JPG" align="right" width="225px">
+<img src="img/Twitter_application_email2.JPG">
